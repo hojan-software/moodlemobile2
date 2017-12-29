@@ -1,0 +1,22 @@
+{
+    "answer": "وەڵام",
+    "answersaved": "وەڵام پاشەکەوت کرا",
+    "certainty": "دڵنیایی",
+    "complete": "کۆتاییهێنان",
+    "correct": "ڕاست",
+    "errorattachmentsnotsupported": "ئەم ئەپە هەتا ئێستا پشتیوانی لە پەڕگەی هاوپێچ بۆ وەڵامەکان ناکات.",
+    "errorinlinefilesnotsupported": "ئەم ئەپە هەتا ئێستا پشتیوانی لە دەستکاری پەڕگەی ئینلاین ناکات.",
+    "errorquestionnotsupported": "جۆری پرسیار تا ئێستە لەلایەن بەرنامەوە پشتیوانی ناکرێت: {{$a}}.",
+    "feedback": "Feedback",
+    "howtodraganddrop": "Tap to select then tap to drop.",
+    "incorrect": "ناڕاست",
+    "information": "زانیاری",
+    "invalidanswer": "وەڵامی نیوەچڵ",
+    "notanswered": "وەڵام نەدراوەتەوە",
+    "notyetanswered": "هێشتا وەڵام نەدراوەتەوە",
+    "partiallycorrect": "Partially correct",
+    "questionmessage": "پرسیاری {{$a}}: {{$b}}",
+    "questionno": "پرسیاری {{$a}}",
+    "requiresgrading": "Requires grading",
+    "unknown": "ناکرێت دۆخ دیاری بکرێت"
+}
