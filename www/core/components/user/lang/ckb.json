@@ -1,1 +1,26 @@
-
+{
+    "address": "ناونیشان",
+    "city": "شار",
+    "contact": "Contact",
+    "country": "وڵات",
+    "description": "شرۆڤە",
+    "details": "وردەکارییەکان",
+    "detailsnotavailable": "وردەکاریی زانیاریی ئەم بەکارهنێەرە بۆ تۆ لەبەر دەستدا نییە.",
+    "editingteacher": "مامۆستا",
+    "email": "ناونیشانی Email",
+    "emailagain": "Email (دووبارە)",
+    "firstname": "ناو",
+    "interests": "حەزەکان",
+    "invaliduser": "بەکارهێنەری هەڵە",
+    "lastname": "نازناو",
+    "manager": "بەڕێوەبەر",
+    "newpicture": "وێنەی نوێ",
+    "phone1": "ژمارەی تەلەفۆن",
+    "phone2": "ژمارەی مۆبایل",
+    "roles": "بەرپرسیارەتی",
+    "sendemail": "Email",
+    "student": "قوتابی",
+    "teacher": "مامۆستای بەبێ دەستکاری",
+    "viewprofile": "بینینی پڕۆفایل",
+    "webpage": "پەڕەی وێب"
+}
