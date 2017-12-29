@@ -1,7 +1,7 @@
 {
-    "chooseaccount": "Choose account",
-    "chooseaccounttoopenlink": "Choose an account to open the link with.",
-    "confirmurlothersite": "This link belongs to another site. Do you want to open it?",
-    "errornoactions": "Couldn't find an action to perform with this link.",
-    "errornosites": "Couldn't find any site to handle this link."
+    "chooseaccount": "هەڵبژاردنی هەژمار",
+    "chooseaccounttoopenlink": "هەژمارێک بۆ کردنەوەی بەستەر هەڵبژێرە.",
+    "confirmurlothersite": "ئەم بەستەرە هی ماڵپەڕێکی ترە، ئەتەوێت بیکەیتەوە؟",
+    "errornoactions": "ناتوانیت لە ڕێگەی ئەم بەستەرەوە هیچ کارێک ئەنجام بدەیت.",
+    "errornosites": "هیچ شوێنێک نەدۆزرایەوە کە ئەرکی ئەم بەستەرە جێبەجێ بکات."
 }
